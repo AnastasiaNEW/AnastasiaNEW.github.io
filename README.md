@@ -3,8 +3,7 @@
     <head>
         <meta charset="utf-8" />
         <title>спорт и бухло</title>
-        
-    </head>
+         </head>
     <body>
 <h1>спорт и бухло</h1>
     </body>
